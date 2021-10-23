@@ -1,0 +1,8 @@
+After collecting some research paper on study and talking 
+     to some students it is found that there should be a software 
+     that plans the entire schedule for study.
+This app basically helps student to plan their entire schedule
+     for exam or for completing any tasks within certain amount 
+     of time due to which it can be used by anyone. Notes and 
+     reminder are some of the features of this app. Furthermore, 
+     features are discussed within the ppt. 
