@@ -1,6 +1,9 @@
 # StudyMate-A Study Planner
+
 ## Guide
 > Prof. Shafaque Syed
+
+
 ## Team Members
 > Abhay Sharma (20102065) 
 
@@ -107,7 +110,7 @@ Back-end Software:
 - PROFILE PAGE 
 
 
-#                 THANK YOU:pray:
+# THANK YOU:pray:
 
 
 
