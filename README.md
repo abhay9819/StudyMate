@@ -26,6 +26,7 @@ This will save the user’s time of maintaining a schedule manually and the remi
 The analytics feature will give an overview of their daily, weekly and monthly progress, completed and pending tasks, hence making sure the user completes their goals  on time.
 
 This application will ensure effective use of the student’s valuable time and boost their productivity, which will improve their performance and help them thrive in their academics.
+
 ---
 ## Problem Definition
 
@@ -38,6 +39,7 @@ StudyMate will help the students to plan their studies and set daily,
 weekly and monthly goals and ensure that they complete them by giving regular reminders.
 
 The application will be very useful for students to keep track of all the academic data.
+
 ---
 ## Objectives
 
@@ -57,6 +59,7 @@ To make an app "Studymate" having the following features:-
 - **To keep a track of study progress using a planner.**
 
 - **To get a weekly subject-wise study progress report and analysis.**
+
 ---
 ## Scope
 
@@ -67,12 +70,14 @@ This application will mainly be useful for students to keep track of their acade
 This app will be extremely useful for people who need a little helping hand when it comes to utilizing their time effectively, as it has a planning feature which the user can use to plan everything in advance and hence avoid missing any deadline which can tend to happen when they have too much on their plate.
 
 Everything is in one place and just a fingertip away; users can use this app to keep their notes in an organized manner and manage their documents very effectively in the app itself.
+
 ---
 ## Existing System/Project
 
 This application will predominantly be a reminder app with an easy-to-use user interface.
 The goals set by the user will be linked to their google calendar for easy access. 
 **After researching similar applications available for the same purpose, we realized that none of these existing systems had a feature to link the tasks to the google calendar, add notes and display detailed analysis of completed and pending work in one application.**
+
 ---
 ## Technology Stack
 
