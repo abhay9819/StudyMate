@@ -1,4 +1,5 @@
-# StudyMate-A Study Planner
+# <p align="center">StudyMate-A Study Planner</p>
+  
 ---
 ## Guide
 > Prof. Shafaque Syed
@@ -114,7 +115,7 @@ Back-end Software:
 - PROFILE PAGE 
 
 ---
-# THANK YOU:pray:
+# <p align="center">THANK YOU:pray:</p>
 
 
 
